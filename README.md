@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I found a secret! This is a ✨special ✨ repository that i can use to add a README.md to my GitHub profile. It’s public and i initialize it with a README. Let's start.
+
 <!--
 **gauzeehom/gauzeehom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
